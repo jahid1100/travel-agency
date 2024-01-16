@@ -18,4 +18,15 @@
        gap: 10px;
        
     }
+    .banner-description{
+        margin: 10px;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .btn-section label{
+    
+
+    margin: 0px auto;
+    }
 }
