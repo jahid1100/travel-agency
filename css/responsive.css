@@ -1,4 +1,23 @@
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 899px) {
+    .banner-description{
+    margin: 30px 50px;
+    
+    }
+    
+    .btn-box{
+        width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    }
+    .box{ 
+       
+        width: 50%;
+        height: 50px;
+        margin: 5px 0px;
+    
+    }
     
 }
 
@@ -28,5 +47,22 @@
     
 
     margin: 0px auto;
+    }
+    .box{
+        width: auto;
+    }
+    .btn-box{
+        width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    }
+    .box{ 
+       
+        width: 100%;
+        height: 50px;
+        margin: 5px 0px;
+    
     }
 }

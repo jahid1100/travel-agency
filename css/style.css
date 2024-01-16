@@ -50,6 +50,7 @@ nav{
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
+    padding-bottom: 60px;
     
 }
 .banner-heading{
@@ -68,7 +69,6 @@ margin: 30px 200px;
 
 }
 .btn-box{
-    border: 5px solid red;
     width: 750px;
     min-height: 50px;
     padding: 20px 10px;
@@ -78,9 +78,9 @@ margin: 0px auto;
 display: flex;
 justify-content: space-between;
 align-items: center;
+
 }
 .box{ 
-    border: 5px solid green;
     width: 170px;
     height: 50px;
 
