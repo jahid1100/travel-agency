@@ -1,16 +1,21 @@
-@media screen and(max-width: 992px) {
+@media screen and (max-width: 992px) {
     
 }
 
 /*---------------- mobile device------------- */
 
-@media screen and(max-width: 600px) {
-    nav{
+@media screen and (max-width: 600px) {
+    nav, .logo{
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
         
     }
     .menu{
        flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       gap: 10px;
        
     }
 }
