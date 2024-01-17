@@ -42,6 +42,9 @@
          width: 100%;
        
      }
+     .footr-description{
+        padding: 20px 30px 25px;
+        }
     
 }
 
@@ -233,6 +236,17 @@
         width: 100%;
         margin-top: 10px;
        
+    }
+    .footr-description{
+    padding: 20px 30px 25px;
+    }
+    .footer{
+
+        margin-top: 50px;
+       
+    }
+    .line{
+        margin: 50px 50px;
     }
     
 }
