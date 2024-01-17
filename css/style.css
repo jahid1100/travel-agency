@@ -217,8 +217,31 @@ font-weight: 400;
     grid-row: 3/span 1;
 }
 
+/*---------------- why chose us cart section-------------------*/
 
-
+.section-cart{
+    border: 1px solid red;
+    min-height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: space-evenly;
+    text-align: ;
+    
+}
+.cart{
+    border: 1px solid green;
+    border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+padding: 15px;
+}
+.cart-1, .cart-2, .cart-3{
+    width: 45%;
+}
+.cart img{
+    margin: 30px 0px;
+}
 
 
 

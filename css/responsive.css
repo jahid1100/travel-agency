@@ -1,4 +1,4 @@
-@media screen and (max-width: 899px) {
+@media screen and (max-width: 890px) {
     .banner-description{
     margin: 30px 50px;
     
@@ -19,8 +19,16 @@
     
     }
     .section-contant p{
-        padding: 70px;
+        padding: 20px 70px;
     }
+    .section-cart{
+        flex-direction: column;
+        align-items: center;
+    
+      }
+      .cart-1, .cart-2, .cart-3{
+          width: 70%;
+      }
     
 }
 
@@ -115,5 +123,13 @@
     .grid-tem-7{
         grid-column: 1/span 1;
         grid-row: 7/span 1;
+    }
+    .section-cart{
+      flex-direction: column;
+      align-items: center;
+  
+    }
+    .cart-1, .cart-2, .cart-3{
+        width: 85%;
     }
 }
