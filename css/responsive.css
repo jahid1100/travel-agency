@@ -225,6 +225,15 @@
         width: 100%;
       
     }
+    .news-latter{
+        flex-direction: column;
+        align-items: center;
+    }
+    .news-form, .news-img{
+        width: 100%;
+        margin-top: 10px;
+       
+    }
     
 }
 
