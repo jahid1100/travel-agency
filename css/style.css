@@ -252,7 +252,7 @@ background: rgba(41, 206, 246, 0.05);
     /* margin-top: 100px; */
 }
 .discount-box{
-    border: 1px solid red;
+    
     padding: 70px 0px;
     margin-bottom: 25px;
     height: 500px;
@@ -294,14 +294,14 @@ margin-left: 50px;
 .discount-cart3{}
 
 .info{
-    border: 1px dotted blue;
+   
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
 
 }
 .day{
-    border: 1px solid red;
+    
     display: flex;
     justify-content: space-between;
 }
@@ -313,12 +313,12 @@ margin-left: 50px;
     
 }
 .max{
-    border: 1px solid green;
+   
     display: flex;
     justify-content: space-between;
 }
 .location{
-    border: 1px solid purple;
+    
     display: flex;
     justify-content: space-between;
 }
