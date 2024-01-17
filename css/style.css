@@ -325,7 +325,35 @@ margin-left: 50px;
 .price{
     margin-bottom: 20px;
 }
-
-
+/*----------------------- Pakage section---------------- */
+.pakage-btn{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.section-btn{
+    text-align: center;
+}
+.pakage-section{
+    /* text-align: center; */
+}
+.pakege{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pakage-contant{
+    width: 48%;
+    
+}
+.pakage-video{
+    width: 48%;
+    
+}
+.pakage-video video{
+    width: 100%;
+    /* height: 100%; */
+    object-fit: cover;
+}
 
 

@@ -29,6 +29,19 @@
       .cart-1, .cart-2, .cart-3{
           width: 70%;
       }
+      .pakege{
+        flex-direction: column;
+        align-items: center;
+     }
+     .pakage-contant{
+         width: 100%;
+        
+     }
+     .pakage-video{
+        margin-top: 10px;
+         width: 100%;
+       
+     }
     
 }
 
@@ -199,6 +212,18 @@
     }
     .discount-box .discount-cart .primary-btn{
         margin-bottom: 8px;
+    }
+    .pakege{
+       flex-direction: column;
+       align-items: center;
+    }
+    .pakage-contant{
+        width: 100%;
+       
+    }
+    .pakage-video{
+        width: 100%;
+      
     }
     
 }
